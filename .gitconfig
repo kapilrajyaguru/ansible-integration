@@ -1,0 +1,4 @@
+[init]
+	defaultBranch = ansible-integration
+[safe]
+	directory = /home/user
